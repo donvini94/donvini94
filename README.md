@@ -1,7 +1,6 @@
 # 👋 Hi there! I'm Vincenzo
 
-🎓 **Computer Science Master's Student** from KIT  
-🇩🇪 Based in Germany | 🤖 ML & Rust Enthusiast
+🎓 **Computer Science Master's Student** from KIT  | 🇩🇪 Based in Germany | 🤖 ML & Rust Enthusiast
 
 ---
 
