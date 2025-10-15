@@ -1,12 +1,11 @@
 # 👋 Hi there! I'm Vincenzo
 
-🎓 **Computer Science Master's Student** from KIT  | 🇩🇪 Based in Germany | 🤖 ML & Rust Enthusiast
+🎓 **Computer Science Graduate** from KIT  | 🇩🇪 Based in Germany | 🤖 ML & Rust Enthusiast
 
 ---
 
 ## 🧠 About Me
 
-#### I'm a computer science student currently finishing my master's thesis at KIT.  
 #### I enjoy working on technically challenging problems and like building clean, reliable systems.
 ---
 
