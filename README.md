@@ -1,56 +1,91 @@
-# 👋 Hi there! I'm Vincenzo
+# Vincenzo Pace
 
-🎓 **Computer Science Graduate** from KIT  | 🇩🇪 Based in Germany | 🤖 ML & Rust Enthusiast
+**AI & Identity and Access Management (IAM) Consultant | Software Engineer**
 
----
+I work at the intersection of **AI, security, and software engineering**, helping organizations design, build, and operate **enterprise-grade systems** that create measurable business value.
 
-## 🧠 About Me
+My focus is on using **AI for automation and efficiency gains**—not as a gimmick, but as a practical tool to improve decision-making, reduce operational friction, and scale organizations responsibly. At the same time, I place strong emphasis on **security, performance, and user experience**, ensuring solutions are robust, maintainable, and suitable for real-world enterprise environments.
 
-#### I enjoy working on technically challenging problems and like building clean, reliable systems.
----
-
-## 🚀 Tech Stack & Interests
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-🧪 **Interests:** Machine Learning, Autonomous AI Agents, Performance Engineering, DevOps, Clean UX for Dev Tools
+I’m particularly interested in problems where **complex technical systems meet organizational and economic constraints**: scalability, security, maintainability, performance, and cost efficiency.
 
 ---
 
-## 📂 Featured Projects
+## What I work on
 
-- ⚙️ **[nixos-config](https://github.com/Donvini94/nixos-config)**  
-  Modular NixOS and Home Manager setup for my systems — desktop, laptop, and server.
+* **Identity & Access Management (IAM)**
 
-- 🧠 **Master’s Thesis: Architecture-based performance prediction with ML (in progress)**  
-  Evaluating ML vs. simulation for software performance prediction.
-  
+  * Identity governance & administration (IGA)
+  * Access models, lifecycle automation, and compliance-driven design
+  * Integration of IAM platforms into heterogeneous enterprise landscapes
 
----
+* **Artificial Intelligence & Machine Learning**
 
-## 📈 GitHub Stats
+  * AI-driven automation and process optimization
+  * ML systems that augment human capabilities rather than replace them
+  * Applied experimentation with a focus on reproducibility and explainability
+  * Interest in reinforcement learning and surrogate modeling
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Donvini94&show_icons=true&theme=github_dark&count_private=true" alt="Donvini94's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donvini94&layout=compact&theme=github_dark&hide=html,css,javascript" alt="Top Languages" />
-</p>
+* **Software & Systems Engineering**
 
----
-
-
-## 📫 Contact
-
-- 🌐 Website (coming soon): [vincenzo.istbereit.de](https://vincenzo.istbereit.de)
-- 📧 [Email](mailto:vincenzo.pace94@icloud.com)
+  * Designing and implementing reliable backend systems
+  * Tooling, automation, and developer experience improvements
+  * Cost-aware infrastructure and operational simplicity
 
 ---
 
+## Technical background
 
-🧭 *Open to new opportunities — especially if they combine ML and Rust.*
+**Languages & ecosystems**
 
+* Rust • Python • Nix
+
+  * Rust for performance, correctness, and strong type systems
+  * Python for rapid iteration, ML workflows, and integration
+* Functional programming influences (Haskell)
+
+**Systems & tooling**
+
+* NixOS & reproducible builds
+
+  * Centralized, declarative system configuration as both infrastructure and documentation
+* Linux-based infrastructure & DevOps practices
+* Emacs (Org-mode, org-roam) for knowledge management and research
+
+**Engineering principles**
+
+* Reproducibility over heroics
+* Clear abstractions over clever hacks
+* Systems that are easy to reason about, operate, and evolve
+
+---
+
+## Professional focus
+
+As a consultant, I care deeply about **outcomes**, not just implementations. My work is guided by:
+
+* **Automation that compounds over time**
+* **Enterprise-grade security and reliability**
+* **High performance and thoughtful user experience**
+* **Clear business value and measurable impact**
+
+I continuously evaluate new technologies and research to broaden my horizon, separate durable trends from hype, and apply what is genuinely useful to clients. I favor solutions that scale well operationally and remain understandable long after the initial delivery.
+
+---
+
+## Selected interests
+
+* AI as a lever for sustainable automation and productivity
+* Identity as a security and organizational primitive
+* Declarative systems and infrastructure as documentation
+* Reproducible research and transparent engineering
+* Long-term value creation over short-term optimization
+
+---
+
+## Contact
+
+* GitHub: `@donvini94`
+
+---
+
+> *I aim to build systems—and teams—that are resilient, understandable, and effective under real-world constraints.*
