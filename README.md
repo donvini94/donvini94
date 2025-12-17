@@ -1,4 +1,4 @@
-# Vincenzo Pace
+# Vincenzo Pace, M.Sc.
 
 **AI & Identity and Access Management (IAM) Consultant | Software Engineer**
 
