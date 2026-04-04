@@ -1,6 +1,6 @@
 # Vincenzo Pace, M.Sc.
 
-**AI & Identity and Access Management (IAM) Consultant | Software Engineer**
+**Lead AI Consultant & Identity and Access Management (IAM) Consultant | Software Engineer**
 
 I work at the intersection of **AI, security, and software engineering**, helping organizations design, build, and operate **enterprise-grade systems** that create measurable business value.
 
