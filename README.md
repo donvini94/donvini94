@@ -1,91 +1,57 @@
 # Vincenzo Pace, M.Sc.
 
-**Lead AI Consultant & Identity and Access Management (IAM) Consultant | Software Engineer**
+**Lead AI & IAM Consultant · Software Engineer**
 
-I work at the intersection of **AI, security, and software engineering**, helping organizations design, build, and operate **enterprise-grade systems** that create measurable business value.
+I build systems that solve real problems — identity infrastructure, AI-driven automation, and the tooling that holds it all together. I care about correctness, long-term maintainability, and shipping things that work under pressure.
 
-My focus is on using **AI for automation and efficiency gains**—not as a gimmick, but as a practical tool to improve decision-making, reduce operational friction, and scale organizations responsibly. At the same time, I place strong emphasis on **security, performance, and user experience**, ensuring solutions are robust, maintainable, and suitable for real-world enterprise environments.
+I lead teams, design technical assessments, and mentor engineers. I set the bar, then help people clear it.
 
-I’m particularly interested in problems where **complex technical systems meet organizational and economic constraints**: scalability, security, maintainability, performance, and cost efficiency.
-
----
-
-## What I work on
-
-* **Identity & Access Management (IAM)**
-
-  * Identity governance & administration (IGA)
-  * Access models, lifecycle automation, and compliance-driven design
-  * Integration of IAM platforms into heterogeneous enterprise landscapes
-
-* **Artificial Intelligence & Machine Learning**
-
-  * AI-driven automation and process optimization
-  * ML systems that augment human capabilities rather than replace them
-  * Applied experimentation with a focus on reproducibility and explainability
-  * Interest in reinforcement learning and surrogate modeling
-
-* **Software & Systems Engineering**
-
-  * Designing and implementing reliable backend systems
-  * Tooling, automation, and developer experience improvements
-  * Cost-aware infrastructure and operational simplicity
+> *Du musst bereit sein.*
 
 ---
 
-## Technical background
+## What I build
 
-**Languages & ecosystems**
+**Identity & Access Management** — governance, lifecycle automation, SCIM integrations, compliance-driven architecture. Enterprise IAM in complex, heterogeneous landscapes.
 
-* Rust • Python • Nix
+**AI & Automation** — applied ML and process automation for organizations that need measurable efficiency gains, not demos. Focus on reproducibility and explainability.
 
-  * Rust for performance, correctness, and strong type systems
-  * Python for rapid iteration, ML workflows, and integration
-* Functional programming influences (Haskell)
-
-**Systems & tooling**
-
-* NixOS & reproducible builds
-
-  * Centralized, declarative system configuration as both infrastructure and documentation
-* Linux-based infrastructure & DevOps practices
-* Emacs (Org-mode, org-roam) for knowledge management and research
-
-**Engineering principles**
-
-* Reproducibility over heroics
-* Clear abstractions over clever hacks
-* Systems that are easy to reason about, operate, and evolve
+**Systems & Tooling** — reliable backends, developer experience, reproducible infrastructure. Rust where it matters, Python where it's practical.
 
 ---
 
-## Professional focus
+## Selected work
 
-As a consultant, I care deeply about **outcomes**, not just implementations. My work is guided by:
-
-* **Automation that compounds over time**
-* **Enterprise-grade security and reliability**
-* **High performance and thoughtful user experience**
-* **Clear business value and measurable impact**
-
-I continuously evaluate new technologies and research to broaden my horizon, separate durable trends from hype, and apply what is genuinely useful to clients. I favor solutions that scale well operationally and remain understandable long after the initial delivery.
+| Project | What it demonstrates |
+|---------|---------------------|
+| [IAM Consultant Assessment](https://github.com/donvini94/IAM-consultant-assessment) | Technical hiring challenge I designed — dual REST API (HR + SCIM 2.0) in Rust/Axum. 56 tests. Real-world identity integration patterns. |
+| [Intern Trial Day — MCP](https://github.com/donvini94/intern-trial-day-assignment-mcp) | Reference implementation for intern onboarding — MCP server integrated with Keycloak. Built to teach, not just to test. |
+| [Palladio Approximator](https://github.com/donvini94/palladio_approximator) | Master's thesis — ML surrogate models predicting system performance from software architecture specifications. MLflow, Bayesian optimization, systematic experimentation. |
+| [NixOS Config](https://github.com/donvini94/nixos-config) | Declarative infrastructure for workstation + home server. Flakes, sops-nix, Hyprland, reverse proxies, media automation. |
 
 ---
 
-## Selected interests
+## Stack
 
-* AI as a lever for sustainable automation and productivity
-* Identity as a security and organizational primitive
-* Declarative systems and infrastructure as documentation
-* Reproducible research and transparent engineering
-* Long-term value creation over short-term optimization
+**Languages:** Rust · Python · Go · Java · Nix  
+**IAM:** SailPoint ISC/IIQ · Keycloak · SCIM  
+**Infra:** NixOS · Docker · Terraform · Ansible  
+**ML:** PyTorch · MLflow · scikit-learn  
+**Editor:** Doom Emacs (org-mode, org-roam) · Zed
+
+---
+
+## How I work
+
+- I design assessments and evaluate candidates — I define what "good" looks like for my teams
+- I mentor engineers from underperforming to high-performing over years, not weeks
+- I favor automation that compounds, not one-off scripts
+- I treat reproducibility as a baseline, not a luxury
 
 ---
 
 ## Contact
 
-* GitHub: `@donvini94`
-
----
-
-> *I aim to build systems—and teams—that are resilient, understandable, and effective under real-world constraints.*
+- GitHub: [@donvini94](https://github.com/donvini94)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/vincenzo-pace-9784a1aa/)
+- Email: [Mail](vincenzo.pace94@icloud.com)
