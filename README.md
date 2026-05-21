@@ -6,7 +6,6 @@ I build systems that solve real problems — identity infrastructure, AI-driven 
 
 I lead teams, design technical assessments, and mentor engineers. I set the bar, then help people clear it.
 
-> *Du musst bereit sein.*
 
 ---
 
@@ -38,15 +37,6 @@ I lead teams, design technical assessments, and mentor engineers. I set the bar,
 **Infra:** NixOS · Docker · Terraform · Ansible  
 **ML:** PyTorch · MLflow · scikit-learn  
 **Editor:** Doom Emacs (org-mode, org-roam) · Zed
-
----
-
-## How I work
-
-- I design assessments and evaluate candidates — I define what "good" looks like for my teams
-- I mentor engineers from underperforming to high-performing over years, not weeks
-- I favor automation that compounds, not one-off scripts
-- I treat reproducibility as a baseline, not a luxury
 
 ---
 
