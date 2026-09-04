@@ -1,47 +1,41 @@
-# Vincenzo Pace, M.Sc.
+# Vincenzo Pace
 
-**Lead AI & IAM Consultant · Software Engineer**
+Lead AI Security Consultant at [amiconsult](https://amiconsult.de), Germany.
 
-I build systems that solve real problems — identity infrastructure, AI-driven automation, and the tooling that holds it all together. I care about correctness, long-term maintainability, and shipping things that work under pressure.
+I spend most of my time on enterprise IAM and on the mess AI agents make of it: what an
+agent is allowed to do, who owns it, and how anyone proves afterwards what it did. Large
+DACH enterprises, so the answers have to survive an auditor and a sceptical CFO.
 
-I lead teams, design technical assessments, and mentor engineers. I set the bar, then help people clear it.
+I came from ML rather than security — master's in CS, thesis on performance prediction for
+software architectures — which is why half the repos here are models and the other half
+are identity plumbing.
 
+### Worth a look
 
----
+- **[IAM-consultant-assessment](https://github.com/donvini94/IAM-consultant-assessment)** —
+  the technical challenge I hand to IAM consultant candidates. Two Rust services, an HR
+  system and a SCIM 2.0 provisioning target, so people integrate against something real
+  instead of talking about integration on a whiteboard.
+- **[intern-trial-day-assignment-mcp](https://github.com/donvini94/intern-trial-day-assignment-mcp)** —
+  the same idea for interns: an MCP server over Keycloak's admin API. The solution I
+  expected them to reach is checked in next to the skeleton they start from, which turned
+  out to be the useful part.
+- **[palladio_approximator](https://github.com/donvini94/palladio_approximator)** —
+  master's thesis. Surrogate models that predict system performance from architecture
+  specifications, so you can skip the simulator. Paired with
+  [TPCM-generator](https://github.com/donvini94/TPCM-generator), which produced the
+  training data.
+- **[nixos-config](https://github.com/donvini94/nixos-config)** — workstation and home
+  server, declarative. The repo here I actually maintain.
+- **[.doom](https://github.com/donvini94/.doom)** — Doom Emacs. org-roam is where the real
+  work lives; this is the machinery around it.
 
-## What I build
+### Tools
 
-**Identity & Access Management** — governance, lifecycle automation, SCIM integrations, compliance-driven architecture. Enterprise IAM in complex, heterogeneous landscapes.
+Rust and Python for most things, Nix for anything that has to come back identical, Emacs
+for the rest. 
 
-**AI & Automation** — applied ML and process automation for organizations that need measurable efficiency gains, not demos. Focus on reproducibility and explainability.
+### Elsewhere
 
-**Systems & Tooling** — reliable backends, developer experience, reproducible infrastructure. Rust where it matters, Python where it's practical.
-
----
-
-## Selected work
-
-| Project | What it demonstrates |
-|---------|---------------------|
-| [IAM Consultant Assessment](https://github.com/donvini94/IAM-consultant-assessment) | Technical hiring challenge I designed — dual REST API (HR + SCIM 2.0) in Rust/Axum. 56 tests. Real-world identity integration patterns. |
-| [Intern Trial Day — MCP](https://github.com/donvini94/intern-trial-day-assignment-mcp) | Reference implementation for intern onboarding — MCP server integrated with Keycloak. Built to teach, not just to test. |
-| [Palladio Approximator](https://github.com/donvini94/palladio_approximator) | Master's thesis — ML surrogate models predicting system performance from software architecture specifications. MLflow, Bayesian optimization, systematic experimentation. |
-| [NixOS Config](https://github.com/donvini94/nixos-config) | Declarative infrastructure for workstation + home server. Flakes, sops-nix, Hyprland, reverse proxies, media automation. |
-
----
-
-## Stack
-
-**Languages:** Rust · Python · Go · Java · Nix  
-**IAM:** SailPoint ISC/IIQ · Keycloak · SCIM  
-**Infra:** NixOS · Docker · Terraform · Ansible  
-**ML:** PyTorch · MLflow · scikit-learn  
-**Editor:** Doom Emacs (org-mode, org-roam) · Zed
-
----
-
-## Contact
-
-- GitHub: [@donvini94](https://github.com/donvini94)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/vincenzo-pace-9784a1aa/)
-- Email: [Mail](vincenzo.pace94@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/vincenzo-pace-9784a1aa/) ·
+[vincenzo.pace94@icloud.com](mailto:vincenzo.pace94@icloud.com)
