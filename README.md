@@ -34,8 +34,3 @@ are identity plumbing.
 
 Rust and Python for most things, Nix for anything that has to come back identical, Emacs
 for the rest. 
-
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/vincenzo-pace-9784a1aa/) ·
-[vincenzo.pace94@icloud.com](mailto:vincenzo.pace94@icloud.com)
